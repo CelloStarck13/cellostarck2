@@ -3,7 +3,7 @@
 Meu nome é Marcelo Silva - Professor Especialista em Currículo
 **# cellostarck2**
 
-- Eu Estou fazendo os cursos da [AluraStart](https://:wwww.alura.com.br)
+- Eu Estou fazendo os cursos da [Alura](https://:wwww.alura.com.br)
 - *Estou me desenvolvendo na linguagem JavaScript*
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
